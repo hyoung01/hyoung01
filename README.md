@@ -14,6 +14,6 @@
 
 
 ### 💡 Awards
-- 세종대학교 SW.AI융합경진대회 4등
-- 세종대학교 창의설계경진대회 대상 <a href = "https://github.com/orgs/mojadole/repositories" >(닷오더) </a>
+- SW.AI융합경진대회 4등
+- 창의설계경진대회 대상 <a href = "https://github.com/orgs/mojadole/repositories" >(닷오더) </a>
 - 제 6회 kakao X goorm 구름톤 최우수상 <a href = "https://github.com/orgs/mojadole/repositories](https://github.com/orgs/GochiHankkiHaku/repositories)https://github.com/orgs/GochiHankkiHaku/repositories" > (한끼하쿠) </a>
